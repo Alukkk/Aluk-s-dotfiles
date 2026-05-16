@@ -1,0 +1,8 @@
+background = #0b0d14
+foreground = #cdd6f4
+palette = 4=#cdd6f4
+background-opacity = 0.85
+background-blur = 16
+font-family = "JetBrains Mono"
+font-size = 12
+font-style = "Regular"   
