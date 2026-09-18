@@ -5,3 +5,4 @@ although they have no eyecandy my dotfiles manage to be beautiful in their own w
 dependencies: MangoWM, ghostty, fuzzel, fastfetch, layan-border-cursors, catppuccin-gtk-theme-mocha, vesktop, vibepanel-bin and cava.
 be sure that you have all installed and enjoy my rice!!!
 (rename the "icons" to ".icons" plus it should be in the home directory, not in .config)
+(PD: if you wont be using noctalia shell then, delete the noctalia.conf file from the mango directory.)
