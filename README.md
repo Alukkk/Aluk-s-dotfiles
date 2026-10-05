@@ -2,7 +2,7 @@
 my simple and minimal dotfiles for mangowm.
 although they have no eyecandy my dotfiles manage to be beautiful in their own way using catppuccin's color pallet <img width="1355" height="757" alt="202605161202" src="https://github.com/user-attachments/assets/93f873bc-89d8-479b-a2cb-1b61ef84883a" />
 <img width="1360" height="761" alt="202605161144" src="https://github.com/user-attachments/assets/7553d8b5-2b81-40b1-8b71-cc55df6e093c" />
-dependencies: MangoWM, ghostty, fuzzel, fastfetch, layan-border-cursors, catppuccin-gtk-theme-mocha, vesktop, vibepanel-bin and cava.
+dependencies: Mangowm-git, alacritty, Noctalia-shell V5, fastfetch, catppuccin-cursors-mocha and cava.
 be sure that you have all installed and enjoy my rice!!!
 (rename the "icons" to ".icons" plus it should be in the home directory, not in .config)
-(PD: if you wont be using noctalia shell then, delete the noctalia.conf file from the mango directory.)
+(PD: Noctalia shell will now be the default launcher. Fuzzel and vibepanel have been deprecated)
