@@ -6,4 +6,6 @@ although they have no eyecandy my dotfiles manage to be beautiful in their own w
 dependencies: Mangowm-git, alacritty, Noctalia-shell V5, fastfetch, catppuccin-cursors-mocha and cava.
 be sure that you have all installed and enjoy my rice!!!
 (rename the "icons" to ".icons" and move it to the home directory, not to .config)
-(PD: Noctalia shell will now be the default launcher. Fuzzel and vibepanel have been deprecated)
+(PD: Noctalia shell will now be the default launcher.)
+(PD2: DO NOT USE THE COMMANDS ON THE TXT FILE UNLESS YOU ARE ON A FRESH INSTALL)
+
