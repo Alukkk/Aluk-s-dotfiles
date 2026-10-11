@@ -21,30 +21,35 @@
             "key": " ",
             "keyColor": "1",
         },
+        
         {
             "type": "kernel",
             "key": " ",
             "keyColor": "1",
         },
+
+        {
+            "type": "memory",
+            "key": "󰍛 ",
+            "keyColor": "1"
+        },
+        
         {
             "type": "packages",
             "key": " ",
             "keyColor": "1",  
         },
+        
         {
             "type": "shell",
             "key": " ",
             "keyColor": "1", 
         },
+        
         {
             "type": "terminal",
             "key": " ",
             "keyColor": "1", 
-        },
-                        {
-            "type": "de",
-            "key": " ",
-            "keyColor": "1"
         },
 
         {
@@ -52,11 +57,11 @@
             "key": " ",
             "keyColor": "1", 
         },
+        
         {
-            "type": "custom",
+            "type": "theme",
             "key": "󰉼 ",
             "keyColor": "1",
-            "format": "GTK Catppuccin Mocha"
         },
           
         {
@@ -70,24 +75,14 @@
             "key": " ",
             "keyColor": "1", 
         },
+        
         {
            "type": "command",
            "key": ">  OS Age ",
            "keyColor": "1",
            "text": "birth_install=$(stat -c %W /); current=$(date +%s); time_progression=$((current - birth_install)); days_difference=$((time_progression / 86400)); echo $days_difference days"
         },
-                {
-            "type": "memory",
-            "key": "󰍛 ",
-            "keyColor": "1"
-        },
-             
-        {
-            "type": "monitor",
-            "key": " ",
-            "keyColor": "1",
-            "format": "{name}"
-        },
+                           
         ]
 }
 
