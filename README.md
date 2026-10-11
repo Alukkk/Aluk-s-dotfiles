@@ -7,5 +7,3 @@ dependencies: Mangowm-git, alacritty, Noctalia-shell V5, fastfetch, catppuccin-c
 be sure that you have all installed and enjoy my rice!!!
 (rename the "icons" to ".icons" and move it to the home directory, not to .config)
 (PD: Noctalia shell will now be the default launcher.)
-(PD2: DO NOT USE THE COMMANDS ON THE TXT FILE UNLESS YOU ARE ON A FRESH INSTALL)
-
