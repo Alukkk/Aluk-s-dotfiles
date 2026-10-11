@@ -1,6 +1,0 @@
-sudo chown -R aluk:aluk -- /~/.cache/Shelly
-and stat -c '%U:%G %A %n' /~/.cache/Shelly
-and test -w /~/.cache/Shelly
-and echo "Shelly cache is writable"
-shelly -Is htop brave-origin ark prismlauncher pwvucontrol auto-cpufreq discord gamemode
-shelly -Ia mangowm-git catppuccin-cursors-mocha jdk-temurin
